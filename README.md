@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&text=Marzoukath AGBODJA&height=100&section=header" alt="m" />
-</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&text=Marzoukath AGBODJA&height=100&section=header"/>
+</p>
 
 ## Hey! 👋
 I'm Marzoukath AGBODJA.
