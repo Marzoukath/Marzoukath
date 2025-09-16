@@ -5,15 +5,16 @@
 
 
 
-I'm Marzoukath AGBODJA and I love data and AI. But i'm web developper too using laravel. 
+I am Marzoukath AGBODJA, a Computer Science  student at EPAC, Benin.
+I am an experienced developer skilled in PHP(Laravel ), Python, JavaScript, Web Development, and Machine Learning.
+Beyond academics, I am actively involved in student organizations, hackathons, and tech clubs, where I contribute to collaborative projects and leadership initiative.
 
 
 
 
 ## Skills
 - Languages: Python, SQL, Php
-- 
-- 
+- Framework: Laravel, Django
 
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -47,7 +48,4 @@ I'm Marzoukath AGBODJA and I love data and AI. But i'm web developper too using 
 
 
 
-## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+
