@@ -4,16 +4,16 @@
 </p>
 
 
-## Hey! 👋
-I'm Marzoukath AGBODJA.
+
+I'm Marzoukath AGBODJA and I love data and AI. But i'm web developper too using laravel. 
+
 
 
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- Languages: Python, SQL, Php
+- 
+- 
 
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
