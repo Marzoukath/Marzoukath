@@ -44,6 +44,10 @@ Beyond academics, I am actively involved in student organizations, hackathons, a
 
 
 
+### 📫 How to reach me?
+- [X]() 
+- [LinkedIn](www.linkedin.com/in/foumi-marzoukath-a-340031238) 
+
 
 
 
